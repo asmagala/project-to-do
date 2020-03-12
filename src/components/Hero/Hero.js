@@ -1,5 +1,7 @@
 import React from 'react';
 import styles from './Hero.scss';
+import PropTypes from 'prop-types';
+//import { types } from 'util';
 
 const Hero = props => (
   <header className={styles.component}>
@@ -7,5 +9,9 @@ const Hero = props => (
     <img className={styles.image} src="http://uploads.kodilla.com/bootcamp/fer/11.react/space.png" alt="Space"></img>
   </header>
 );
+
+Hero.PropTypes = {
+  titleText: PropTypes.node.isRequired,
+};
 
 export default Hero;
