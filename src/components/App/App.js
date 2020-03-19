@@ -13,8 +13,7 @@ class App extends React.Component {
           pictureAlt="Space"
           firstColumn="First Column"
           secondColumn="Second Column"
-          thirdColumn="Third Column">
-        </List>
+          thirdColumn="Third Column" />
       </main>
     )
   }
