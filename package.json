@@ -20,6 +20,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "10.x"
+  },
   "dependencies": {
     "http-server": "^0.12.1",
     "prop-types": "^15.7.2",
