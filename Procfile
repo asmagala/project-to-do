@@ -1,1 +1,1 @@
-web: http-server dist -p 80
+web: http-server dist -p $PORT
