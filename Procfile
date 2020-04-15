@@ -1,1 +1,1 @@
-web: http-server dist
+web: http-server dist -p 80
