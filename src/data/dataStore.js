@@ -97,7 +97,19 @@ const lists = [
     id: 'list-1',
     title: 'Things to do <sup>soon!</sup>',
     description: 'Interesting things I want to check out!',
-    image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
+    image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png'
+  },
+  {
+    id: 'list-2',
+    title: 'What\'s gonna happen.',
+    description: 'What I expect to happen in the nearest futuer',
+    image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png'
+  },
+  {
+    id: 'list-3',
+    title: 'Far seeing',
+    description: 'Not so soon things that I\'m going to do',
+    image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png'
   },
 ];
 
